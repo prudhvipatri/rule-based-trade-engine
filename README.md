@@ -85,5 +85,4 @@ schtasks /create /sc daily /tn "TrailingExitBot" ^
 
 ---
 
-**License:** MIT (suggested).
-**Disclaimer:** Personal automation project; for educational use only.
+**Disclaimer:** Please be careful with stock investments and start slow/low
